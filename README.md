@@ -1,6 +1,6 @@
 # beers_with_punkapi
 
-A new Flutter application.
+Flutter application done during a flutter course
 
 ## Getting Started
 
