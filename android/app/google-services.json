@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716192433767",
+    "project_id": "punkapi-b649c",
+    "storage_bucket": "punkapi-b649c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716192433767:android:1e1e055b5e6c693542f6c2",
+        "android_client_info": {
+          "package_name": "com.example.beers_with_punkapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716192433767-rigmu2jcn7m0h74ojql7aqc6mvi15qtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1KpMZkpC9kh_TZsHAeVuCbeQxAPH3qrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716192433767-rigmu2jcn7m0h74ojql7aqc6mvi15qtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
